@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veeresvaran&label=Profile%20views&color=0e75b6&style=flat" alt="veeresvaran" /> </p>
 
-- 🌱 I’m currently learning **Angular and Kotlin**
+- 🌱 I’m currently learning **Gen AI : CrewAI,...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
